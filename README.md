@@ -4,6 +4,6 @@ Source code for the article "Opposition-based learning memetic algorithm for the
 
 The code was tested on a computer under Linux operating system.
 
-``
+```
 ./kMIS ./instances/classe_1_280_224.txt
-``
+```
